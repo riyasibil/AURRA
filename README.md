@@ -1,0 +1,2 @@
+# AURRA
+Spatial Visualization System for Real-Time 3D Interaction (IEI Mechanical Ideathon 2026)
